@@ -35,7 +35,7 @@ using System.Threading;
 
 namespace Tester
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
